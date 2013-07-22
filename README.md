@@ -16,8 +16,6 @@ The authorization in DLM appeared in Synology DSM 4.1.
 
 ## Updates
 
-jiverson222@gmail.com
-
 To compile run:
 ````bash
 tar zcf mymodule.dlm INFO search.php
